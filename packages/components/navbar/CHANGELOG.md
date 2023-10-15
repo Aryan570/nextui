@@ -1,5 +1,22 @@
 # @nextui-org/navbar
 
+## 3.0.0
+
+### Major Changes
+
+- [#1655](https://github.com/nextui-org/nextui/pull/1655) [`c9c5564c`](https://github.com/nextui-org/nextui/commit/c9c5564c58b4dea692e744f0ae9409666e84d894) Thanks [@anshmourya](https://github.com/anshmourya)! - fix:Ensure Navbar Icons Update Correctly #1648
+
+  When a function is provided to the Navbar to replace the icons, only the initial icon is applied. It seems the use of useMemo(...) prevents the function from getting executed again, since isMenuOpen is not included in the dependency array.
+
+  This commit includes changes to address these problems and ensure that Navbar icons and slot classes update as expected.
+
+  Issue resolved.
+
+### Patch Changes
+
+- Updated dependencies [[`3aac9bac`](https://github.com/nextui-org/nextui/commit/3aac9bac2637d3aedac7f3dd88a75c49fade35f2), [`c0706acb`](https://github.com/nextui-org/nextui/commit/c0706acbcade88306457ea1bb4244d9e4058f9bd)]:
+  - @nextui-org/theme@2.1.10
+
 ## 2.0.22
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @nextui-org/button
 
+## 2.0.22
+
+### Patch Changes
+
+- [#1637](https://github.com/nextui-org/nextui/pull/1637) [`3aac9bac`](https://github.com/nextui-org/nextui/commit/3aac9bac2637d3aedac7f3dd88a75c49fade35f2) Thanks [@chongruei](https://github.com/chongruei)! - Fix #1626 The 'border-left' is obscured by 'margin-left ml-[calc(theme(borderWidth.medium)*-1)]', and the border is not covered by its neighbor when the button is set to variant='bordered' in the ButtonGroup.
+
+- Updated dependencies [[`9d4c7ed9`](https://github.com/nextui-org/nextui/commit/9d4c7ed9cf46df182437089e746e255b4b22bd42), [`3aac9bac`](https://github.com/nextui-org/nextui/commit/3aac9bac2637d3aedac7f3dd88a75c49fade35f2), [`c0706acb`](https://github.com/nextui-org/nextui/commit/c0706acbcade88306457ea1bb4244d9e4058f9bd)]:
+  - @nextui-org/ripple@2.0.22
+  - @nextui-org/theme@2.1.10
+  - @nextui-org/spinner@2.0.20
+
 ## 2.0.21
 
 ### Patch Changes

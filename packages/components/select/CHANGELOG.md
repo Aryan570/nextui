@@ -1,5 +1,18 @@
 # @nextui-org/select
 
+## 2.1.12
+
+### Patch Changes
+
+- [#1682](https://github.com/nextui-org/nextui/pull/1682) [`95c8fdaa`](https://github.com/nextui-org/nextui/commit/95c8fdaa2e1fdd59db19732a14fa7a3269238308) Thanks [@markyong](https://github.com/markyong)! - fix #1678 Select component placeholder prop should be fresh
+
+- Updated dependencies [[`3aac9bac`](https://github.com/nextui-org/nextui/commit/3aac9bac2637d3aedac7f3dd88a75c49fade35f2), [`c0706acb`](https://github.com/nextui-org/nextui/commit/c0706acbcade88306457ea1bb4244d9e4058f9bd)]:
+  - @nextui-org/theme@2.1.10
+  - @nextui-org/popover@2.1.10
+  - @nextui-org/listbox@2.1.11
+  - @nextui-org/scroll-shadow@2.1.10
+  - @nextui-org/spinner@2.0.20
+
 ## 2.1.11
 
 ### Patch Changes
