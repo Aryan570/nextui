@@ -1,5 +1,14 @@
 # @nextui-org/radio
 
+## 2.0.23
+
+### Patch Changes
+
+- [#1668](https://github.com/nextui-org/nextui/pull/1668) [`d79808db`](https://github.com/nextui-org/nextui/commit/d79808dbe163362fecbfb650906009d0fb6be74a) Thanks [@bobbychan](https://github.com/bobbychan)! - fix: when radio is selected in invalid state, the border of the radio controller should be danger color
+
+- Updated dependencies [[`3aac9bac`](https://github.com/nextui-org/nextui/commit/3aac9bac2637d3aedac7f3dd88a75c49fade35f2), [`c0706acb`](https://github.com/nextui-org/nextui/commit/c0706acbcade88306457ea1bb4244d9e4058f9bd)]:
+  - @nextui-org/theme@2.1.10
+
 ## 2.0.22
 
 ### Patch Changes

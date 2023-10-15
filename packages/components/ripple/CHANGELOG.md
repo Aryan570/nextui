@@ -1,5 +1,14 @@
 # @nextui-org/ripple
 
+## 2.0.22
+
+### Patch Changes
+
+- [#1681](https://github.com/nextui-org/nextui/pull/1681) [`9d4c7ed9`](https://github.com/nextui-org/nextui/commit/9d4c7ed9cf46df182437089e746e255b4b22bd42) Thanks [@jrgarciadev](https://github.com/jrgarciadev)! - Fix #1656 clear ripples on animation complete
+
+- Updated dependencies [[`3aac9bac`](https://github.com/nextui-org/nextui/commit/3aac9bac2637d3aedac7f3dd88a75c49fade35f2), [`c0706acb`](https://github.com/nextui-org/nextui/commit/c0706acbcade88306457ea1bb4244d9e4058f9bd)]:
+  - @nextui-org/theme@2.1.10
+
 ## 2.0.21
 
 ### Patch Changes
