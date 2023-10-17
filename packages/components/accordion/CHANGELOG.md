@@ -1,5 +1,13 @@
 # @nextui-org/accordion
 
+## 2.0.25
+
+### Patch Changes
+
+- Updated dependencies [[`50a9bf54`](https://github.com/nextui-org/nextui/commit/50a9bf54d41c4f600d6137326fde858b679eded4)]:
+  - @nextui-org/theme@2.1.11
+  - @nextui-org/divider@2.0.22
+
 ## 2.0.24
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @nextui-org/button
 
+## 2.0.23
+
+### Patch Changes
+
+- Updated dependencies [[`50a9bf54`](https://github.com/nextui-org/nextui/commit/50a9bf54d41c4f600d6137326fde858b679eded4)]:
+  - @nextui-org/theme@2.1.11
+  - @nextui-org/ripple@2.0.23
+  - @nextui-org/spinner@2.0.21
+
 ## 2.0.22
 
 ### Patch Changes

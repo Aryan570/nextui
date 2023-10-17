@@ -1,5 +1,14 @@
 # @nextui-org/pagination
 
+## 2.0.24
+
+### Patch Changes
+
+- [#1584](https://github.com/nextui-org/nextui/pull/1584) [`50a9bf54`](https://github.com/nextui-org/nextui/commit/50a9bf54d41c4f600d6137326fde858b679eded4) Thanks [@jguddas](https://github.com/jguddas)! - fix: pagination issues
+
+- Updated dependencies [[`50a9bf54`](https://github.com/nextui-org/nextui/commit/50a9bf54d41c4f600d6137326fde858b679eded4)]:
+  - @nextui-org/theme@2.1.11
+
 ## 2.0.23
 
 ### Patch Changes
